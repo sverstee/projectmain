@@ -1,0 +1,3 @@
+[submodule "HelloWorld"]
+	path = HelloWorld
+	url = git@github.com:CoachEd/HelloWorld.git
